@@ -5,5 +5,6 @@
 3. RecyclerView 
 4. JSON extraction
 5. MULTIPLE FRAGMENTS 
+6. Progress Bar
 
-contact me if you need help dev.samakram@gmail.com
+contact me if you need help dev.samakram@gmail.com 
